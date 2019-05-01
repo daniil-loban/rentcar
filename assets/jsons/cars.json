@@ -1,0 +1,161 @@
+[ {
+  "id": 1,
+  "model": "Opel Corsa",
+  "price": 15,
+  "isAvailable": true,
+  "properties": {
+    "year": 2012,
+    "seats": 5,
+    "bags":2,
+    "doors":4,
+    "ac":"A/С",
+    "transmission":"M",
+    "photo": "corsa1-797x465.jpg",
+    "photo-min":"corsa1-300x175.jpg"
+  }
+}
+,
+  {
+  "id": 2,
+  "model": "Hyundai Solaris",
+  "price": 20,
+  "isAvailable": true,
+  "properties": {
+    "year": 2016,
+    "seats": 5,
+    "bags":4,
+    "doors":4,
+    "ac":"A/С",
+    "transmission":"M",
+    "photo": "Hyundai-Solaris-798x466.jpg",
+    "photo-min":"Hyundai-Solaris-300x175.jpg"
+  }
+}
+,
+  {
+  "id": 3,
+  "model": "Skoda Rapid",
+  "price": 22,
+  "isAvailable": true,
+  "properties": {
+    "year": 2017,
+    "seats": 5,
+    "bags":5,
+    "doors":4,
+    "ac":"A/С",
+    "transmission":"A",
+    "photo": "rapid-797x465.jpg",
+    "photo-min":"rapid-300x175.jpg"
+  }
+}
+,
+  {
+  "id": 4,
+  "model": "VW Golf 6",
+  "price": 16,
+  "isAvailable": true,
+  "properties": {
+    "year": 2010,
+    "seats": 5,
+    "bags":3,
+    "doors":3,
+    "ac":"A/С",
+    "transmission":"M",
+    "photo": "golf2-798x465.jpg",
+    "photo-min":"golf2-300x174.jpg"
+  }
+}
+,
+  {
+  "id": 5,
+  "model": "Kia Rio Седан",
+  "price": 22,
+  "isAvailable": true,
+  "properties": {
+    "year": 2016,
+    "seats": 5,
+    "bags":4,
+    "doors":4,
+    "ac":"A/С",
+    "transmission":"M",
+    "photo": "Kia-Rio-798x466.jpg",
+    "photo-min":"Kia-Rio-300x175.jpg"
+  }
+}
+,
+  {
+  "id": 6,
+  "model": "Renault Logan",
+  "price": 19,
+  "isAvailable": true,
+  "properties": {
+    "year": 2016,
+    "seats": 5,
+    "bags":4,
+    "doors":4,
+    "ac":"A/С",
+    "transmission":"M",
+    "photo": "Reno-Logan-798x437.jpg",
+    "photo-min":"Reno-Logan-300x164.jpg"
+  }
+}
+,
+  {
+  "id": 7,
+  "model": "VW Golf 6",
+  "price": 18,
+  "isAvailable": true,
+  "properties": {
+    "year": 2012,
+    "seats": 5,
+    "bags":3,
+    "doors":4,
+    "ac":"A/С",
+    "transmission":"A",
+    "photo": "Golf-798x465.jpg",
+    "photo-min":"Golf-300x174.jpg"
+  }
+}
+,
+  {
+  "id": 8,
+  "model": "VW Polo Седан",
+  "price": 18,
+  "isAvailable": true,
+  "properties": {
+    "year": 2016,
+    "seats": 5,
+    "bags":4,
+    "doors":4,
+    "ac":"A/С",
+    "transmission":"M",
+    "photo": "polo1-797x465.jpg",
+    "photo-min":"polo1-300x175.jpg"
+  }
+}
+,
+  {
+  "id": 9,
+  "model": "Hyundai Solaris",
+  "price": 18,
+  "isAvailable": true,
+  "properties": {
+    "year": 2018,
+    "seats": 5,
+    "bags":4,
+    "doors":4,
+    "ac":"A/С",
+    "transmission":"A",
+    "photo": "solaris18-798x465.jpg",
+    "photo-min":"solaris18-300x174.jpg"
+  }
+}
+
+]
+
+
+  
+
+
+            
+
