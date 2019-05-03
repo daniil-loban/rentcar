@@ -21,7 +21,7 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 //app.use(express.static(path.join(__dirname, 'assets')));
 
-app.use('/img', express.static(__dirname+'/public/img'));
+//  app.use('/img', express.static(__dirname+'/public/img'));
 
 app.use('/', indexRouter);
 app.use('/cars', carsRouter);
