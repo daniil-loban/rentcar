@@ -9,7 +9,7 @@ router.post('/', function(req,res){
   const endDate = req.body.endDate;
   console.log(`Car Id = ${carId} start = ${startDate} end = ${endDate}, userData is ${JSON.stringify(userData)}`);
   res.statusCode = 200;
-  res.end("OK");
+  res.end("Ваш закакз принят");
 });
 
 module.exports = router;
